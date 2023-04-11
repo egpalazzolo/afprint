@@ -7,24 +7,24 @@ permalink: /program/
 # Workshop Program
 ---
 ## Day 1: Thursday, April 27
-8:30am - 9:00am     [Breakfast](#breakfast)  
-9:00am - 9:45am     [Keynote Address](#keynote-address)  
-9:45am - 11:15am    [Panel - Archiving (Part I): Africa in Global Archives](#panel---archiving-part-i-africa-in-global-archives)
-11:15am - 11:30am   [Break](#break)  
-11:30am - 1:00pm    [Panel - Political and Polemical Print Culture (Part I): Reading Publics](#panel---political-and-polemical-print-culture-part-i-reading-publics)  
-1:00pm - 2:00pm     [Lunch](#lunch)  
-2:00pm - 3:30pm     [Panel - Documenting Queer Lifeworlds](#panel---documenting-queer-lifeworlds)  
-6:00pm - 8:00pm     [Dinner](#dinner)  
+8:30am - 9:00am         [Breakfast](#breakfast)  
+9:00am - 9:45am         [Keynote Address](#keynote-address)  
+9:45am - 11:15am        [Panel - Archiving (Part I): Africa in Global Archives](#panel---archiving-part-i-africa-in-global-archives)  
+11:15am - 11:30am       [Break](#break)  
+11:30am - 1:00pm        [Panel - Political and Polemical Print Culture (Part I): Reading Publics](#panel---political-and-polemical-print-culture-part-i-reading-publics)  
+1:00pm - 2:00pm         [Lunch](#lunch)  
+2:00pm - 3:30pm         [Panel - Documenting Queer Lifeworlds](#panel---documenting-queer-lifeworlds)  
+6:00pm - 8:00pm         [Dinner](#dinner)  
 
 
 ## Day 2: Friday, April 28
-8:30am - 9:00am     [Breakfast](#breakfast-1)  
-9:00am - 10:30am    [Panel - Archiving (Part II): The Digital Turn and the Future of the Archive](#panel---archiving-part-ii-the-digital-turn-and-the-future-of-the-archive)  
-10:30am - 10:45am   [Break](#break-1)  
-10:45am - Noon      [Panel - Political and Polemical Print Culture (Part I): Print as Social Technology in the Late/Postcolony](#panel---political-and-polemical-print-culture-part-i-print-as-social-technology-in-the-latepostcolony)  
-Noon - 1:00pm       [Lunch](#lunch-1)  
-1:00pm - 2:30pm     [Panel - Media, Publishing Networks and Black Femininities](#panel---media-publishing-networks-and-black-femininities)  
-2:30pm - 3:00pm     [Closing Remarks](#closing-remarks)  
+8:30am - 9:00am         [Breakfast](#breakfast-1)  
+9:00am - 10:30am        [Panel - Archiving (Part II): The Digital Turn and the Future of the Archive](#panel---archiving-part-ii-the-digital-turn-and-the-future-of-the-archive)  
+10:30am - 10:45am       [Break](#break-1)  
+10:45am - Noon          [Panel - Political and Polemical Print Culture (Part I): Print as Social Technology in the Late/Postcolony](#panel---political-and-polemical-print-culture-part-i-print-as-social-technology-in-the-latepostcolony)  
+Noon - 1:00pm           [Lunch](#lunch-1)  
+1:00pm - 2:30pm         [Panel - Media, Publishing Networks and Black Femininities](#panel---media-publishing-networks-and-black-femininities)  
+2:30pm - 3:00pm         [Closing Remarks](#closing-remarks)  
 
 ---
 
