@@ -1,3 +1,3 @@
-[submodule "/cayman"] 
-  path = /cayman
-  url = https://github.com/pages-themes/cayman.git
+[submodule "cayman"] 
+  path = cayman
+  url = git://https://github.com/pages-themes/cayman.git
