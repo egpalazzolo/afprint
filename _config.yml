@@ -6,7 +6,7 @@ google_analytics:
 theme: jekyll-theme-cayman
 
 github:
-  home_url: http://127.0.0.1:4000/
-  program_url: http://127.0.0.1:4000/program/
-  keynote_url: http://127.0.0.1:4000/keynote/
-  contact_url: http://127.0.0.1:4000/contact/
+  home_url: https://egpalazzolo.github.io/afprint
+  program_url: https://egpalazzolo.github.io/afprint/program/
+  keynote_url: https://egpalazzolo.github.io/afprint/keynote/
+  contact_url: https://egpalazzolo.github.io/afprint/contact/
