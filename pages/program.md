@@ -6,7 +6,7 @@ permalink: /program/
 ---
 # Workshop Program
 ---
-## DAY 1: Thursday, April 27
+## Day 1: Thursday, April 27
 8:30am - 9:00am     [Breakfast](#breakfast)  
 9:00am - 9:45am     [Keynote Address](#keynote-address)  
 9:45am - 11:15am    [Panel - Archiving (Part I): Africa in Global Archives](#panel---archiving-part-i-africa-in-global-archives)
@@ -17,14 +17,14 @@ permalink: /program/
 6:00pm - 8:00pm     [Dinner](#dinner)  
 
 
-## DAY 2: Friday, April 28
-8:30am - 9:00am     [Breakfast](#breakfast-1) 
+## Day 2: Friday, April 28
+8:30am - 9:00am     [Breakfast](#breakfast-1)  
 9:00am - 10:30am    [Panel - Archiving (Part II): The Digital Turn and the Future of the Archive](#panel---archiving-part-ii-the-digital-turn-and-the-future-of-the-archive)  
 10:30am - 10:45am   [Break](#break-1)  
-10:45am - Noon      [Panel - Political and Polemical Print Culture (Part I): Print as Social Technology in the Late/Postcolony](#panel---political-and-polemical-print-culture-part-i-print-as-social-technology-in-the-latepostcolony)
-Noon - 1:00pm       [Lunch](#lunch-1)
-1:00pm - 2:30pm     [Panel - Media, Publishing Networks and Black Femininities](#panel---media-publishing-networks-and-black-femininities)
-2:30pm - 3:00pm     [Closing Remarks](#closing-remarks)
+10:45am - Noon      [Panel - Political and Polemical Print Culture (Part I): Print as Social Technology in the Late/Postcolony](#panel---political-and-polemical-print-culture-part-i-print-as-social-technology-in-the-latepostcolony)  
+Noon - 1:00pm       [Lunch](#lunch-1)  
+1:00pm - 2:30pm     [Panel - Media, Publishing Networks and Black Femininities](#panel---media-publishing-networks-and-black-femininities)  
+2:30pm - 3:00pm     [Closing Remarks](#closing-remarks)  
 
 ---
 
@@ -33,18 +33,18 @@ Noon - 1:00pm       [Lunch](#lunch-1)
 ---
 
 ## Breakfast  
-##### 8:30am - 9:00am  
+### 8:30am - 9:00am  
 
 ---
 
 ## Keynote Address  
-##### 9:00am - 9:45am  
+### 9:00am - 9:45am  
 Hashtaging Activism: The Role of Social Media in Documenting African Women’s Organizing – **Dr. Msia Kibona Clark**, Howard University, USA  
 
 ---
 
 ## Panel - Archiving (Part I): Africa in Global Archives  
-##### 9:45am - 11:15am  
+### 9:45am - 11:15am  
 
 *Chairs/Discussants*  
 
@@ -59,12 +59,12 @@ Decolonization and the History of African Libraries 1960-1988—**Alexander Baer
 ---
 
 ## Break  
-##### 11:15am - 11:30am  
+### 11:15am - 11:30am  
 
 ---
 
 ## Panel - Political and Polemical Print Culture (Part I): Reading Publics  
-##### 11:30am - 1:00pm  
+### 11:30am - 1:00pm  
 
 *Chairs/Discussants*  
 
@@ -77,13 +77,13 @@ Umshumayeli Wendaba and the early African language press as a site of intellectu
 ---
 
 ## Lunch  
-##### 1:00pm - 2:00pm  
+### 1:00pm - 2:00pm  
 Location: On campus - Gilman Hall, room 388
 
 ---
 
 ## Panel - Documenting Queer Lifeworlds  
-##### 2:00pm - 3:30pm  
+### 2:00pm - 3:30pm  
 
 *Chairs/Discussants*  
 
@@ -95,7 +95,7 @@ Mediated Intimations: Curating Archival Fragments from Angola and Mozambique—*
 ---
 
 ## Dinner  
-##### 6:00pm - 8:00pm  
+### 6:00pm - 8:00pm  
 Location to be determind.
 
 ---
@@ -105,12 +105,12 @@ Location to be determind.
 ---
 
 ## Breakfast  
-##### 8:30am - 9:00am  
+### 8:30am - 9:00am  
 
 ---
 
 ## Panel - Archiving (Part II): The Digital Turn and the Future of the Archive  
-##### 9:00am - 10:30am  
+### 9:00am - 10:30am  
 
 Chairs/Discussants:
 Reflection on the Haya language collected proverbs for digital archive—Frolence Rubagumisa
@@ -126,12 +126,12 @@ in Africa” - Janeth Marwa, Tanzania
 ---
 
 ## Break  
-##### 10:30am - 10:45am  
+### 10:30am - 10:45am  
 
 ---
 
 ## Panel - Political and Polemical Print Culture (Part I): Print as Social Technology in the Late/Postcolony
-##### 10:45am - Noon  
+### 10:45am - Noon  
 
 *Chairs/Discussants*  
 
@@ -147,12 +147,12 @@ in Africa”-**Janeth Marwa**, Tanzania
 ---
 
 ## Lunch  
-##### 10:45am - Noon  
+### 10:45am - Noon  
 
 ---
 
 ## Panel - Media, Publishing Networks and Black Femininities
-##### 1:00pm - 2:30pm  
+### 1:00pm - 2:30pm  
 
 *Chairs/Discussants*  
 
@@ -167,7 +167,7 @@ Transiting through Media: Film in Theatre for Development in Tanzania—**Vicens
 ---
 
 ## Closing Remarks  
-##### 2:30pm - 3:00pm  
+### 2:30pm - 3:00pm  
 
 Closing commentary by the 2023 Workshop Co-organizers and discussion of future possibilities
 for an edited volume.
