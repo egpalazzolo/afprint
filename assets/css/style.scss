@@ -1,8 +1,4 @@
 ---
 ---
 
-{@import 
-    "minima/skins/{{ site.minima.skin | default: 'classic' }}",
-    "minima/initialize",
-    'jekyll-theme-cayman';
-}
+@import 'jekyll-theme-cayman';
