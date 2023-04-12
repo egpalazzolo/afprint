@@ -96,7 +96,7 @@ Mediated Intimations: Curating Archival Fragments from Angola and Mozambique—*
 
 ## Dinner  
 ### 6:00pm - 8:00pm  
-Location to be determind.
+Location to be determined.
 
 ---
 
