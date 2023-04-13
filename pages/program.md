@@ -39,7 +39,8 @@ Noon - 1:00pm           [Lunch](#lunch-1)
 
 ## Keynote Address  
 ### 9:00am - 9:45am  
-Hashtaging Activism: The Role of Social Media in Documenting African Women’s Organizing – **Dr. Msia Kibona Clark**, Howard University, USA  
+Hashtaging Activism: The Role of Social Media in Documenting African Women’s Organizing –  
+**Dr. Msia Kibona Clark**, Howard University, USA  
 
 ---
 
