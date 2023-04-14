@@ -8,7 +8,7 @@ permalink: /keynote/
 # Keynote
 
 ### Join us for a Keynote Address from Dr. Msia Kibona Clark.
-![Dr. Clark](../pages/images/msia3.jpg){: style="float: center"}
+![](../pages/images/msia3.jpeg){: style="float: center"}
 
 ### To receive the Zoom link, please RSVP [Here](https://docs.google.com/forms/d/e/1FAIpQLScelKAZUud_q_hu3fmhaBa_SfbmrJeFB8MeHyPwD88EqZ0tlA/viewform?usp=sf_link)
 
