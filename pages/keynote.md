@@ -8,7 +8,7 @@ permalink: /keynote/
 # Keynote: Rethinking Print Culture, Media, Digital and Oral History as Archive, Evidence, and Method
 
 ### Join us for a Keynote Address from Dr. Msia Kibona Clark.
-![](../pages/images/msia3.jpeg){: style="float: center"}
+![](../pages/images/msia3.jpeg){: style="center"}
 
 ### To receive the Zoom link, please RSVP [Here](https://docs.google.com/forms/d/e/1FAIpQLScelKAZUud_q_hu3fmhaBa_SfbmrJeFB8MeHyPwD88EqZ0tlA/viewform?usp=sf_link)
 
