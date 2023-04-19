@@ -6,15 +6,26 @@ permalink: /sponsors/
 ---
 # Our Sponsors
 ---
+![Johns Hopkins University](pages/images/uni.jpeg)  
 
-![Social Sciences and Humanities Research Council Canada](https://www.sshrc-crsh.gc.ca/home-accueil-eng.aspx)(pages/images/sshrc.jpeg)  
+![Carleton University](pages/images/can.jpeg)  
 
-![Alexander Grass Humanities Institute](https://krieger.jhu.edu/humanities-institute/)
+![Hekima University](pages/images/uni.jpeg)  
 
-![Center for Economy and Society](https://www.economyandsociety.org/)
+![Social Sciences and Humanities Research Council Canada](pages/images/sshrc.jpeg)
+[Website](https://www.sshrc-crsh.gc.ca/home-accueil-eng.aspx)  
 
-![Department of History, Johns Hopkins University](https://history.jhu.edu/)
+![Alexander Grass Humanities Institute](pages/images/grass.jpeg)
+[Website](https://krieger.jhu.edu/humanities-institute/)
 
-![Winston Tabb Special Collections Research Center](https://tabbcenter.library.jhu.edu/)
+![Center for Economy and Society](pages/images/econsoc.jpeg)
+[Website](https://www.economyandsociety.org/)
 
-![Graduate Representative Organisation, Johns Hopkins University](https://studentaffairs.jhu.edu/gro/)  
+![Department of History, Johns Hopkins University](pages/images/history.jpeg)
+[Website](https://history.jhu.edu/)
+
+![Winston Tabb Special Collections Research Center](pages/images/tabb.jpeg)
+[Website](https://tabbcenter.library.jhu.edu/)
+
+![Graduate Representative Organisation, Johns Hopkins University](pages/images/gro.jpeg)
+[Website](https://studentaffairs.jhu.edu/gro/)  
