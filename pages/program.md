@@ -90,7 +90,8 @@ Location: On campus - Gilman Hall, room 388
 
 Where Rafiki meets “Jambula Tree”: Literary, Sonic and Visual Resonances of Queer Life in Kenya and Uganda—**Mary Ainomugisha**, New York University, USA  
 
-White like me: The pursuit of sameness in the early South African gay press—Theo Sonnekus, University of Johannesburg, South Africa
+White like me: The pursuit of sameness in the early South African gay press—**Theo Sonnekus**, University of Johannesburg, South Africa  
+
 Mediated Intimations: Curating Archival Fragments from Angola and Mozambique—**Caio Simões de Araújo**, University of the Witwatersrand, South Africa  
 
 ---
@@ -113,13 +114,16 @@ Location to be determined.
 ## Panel - Archiving (Part II): The Digital Turn and the Future of the Archive  
 ### 9:00am - 10:30am  
 
-Chairs/Discussants:
+*Chairs/Discussants*  
+
 Reflection on the Haya language collected proverbs for digital archive-**Frolence Rubagumisa Rutechura**, University of Dar es Salaam, Tanzania
 
 Salvage Ethnography as Indigenous Archive: Nubian Digital Mediations of Heritage and
-Memory in Egypt—**Yasmin Moll**, University of Michigan, USA
-Digital Parodies, Translational Fevers, and the Living Archive—Damilare Bello, Duke
-University, USA
+Memory in Egypt—**Yasmin Moll**, University of Michigan, USA  
+
+Digital Parodies, Translational Fevers, and the Living Archive—**Damilare Bello**, Duke
+University, USA  
+
 “Advancing Innovative Media in Creating Common Culture Toward Inclusive Digital Economy
 in Africa”-**Janeth Marwa**, Tanzania
 
