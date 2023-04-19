@@ -30,5 +30,5 @@ Hekima University
 ![Winston Tabb Special Collections Research Center](../pages/images/tabb.jpeg)
 [Winston Tabb Special Collections Research Center](https://tabbcenter.library.jhu.edu/)
 
-![Graduate Representative Organisation, Johns Hopkins University](../pages/images/gro.jpeg)
+![Graduate Representative Organisation, Johns Hopkins University](../pages/images/gro.jpeg)  
 [Graduate Representative Organisation, Johns Hopkins University](https://studentaffairs.jhu.edu/gro/)  
