@@ -7,13 +7,9 @@ permalink: /sponsors/
 # Our Sponsors
 ---
 ![Johns Hopkins University](../pages/images/can.jpeg)
-Johns Hopkins University  
-
-![Carleton University](../pages/images/uni1.jpeg)  
-Carleton University
-
+![Carleton University](../pages/images/uni1.jpeg)
 ![Hekima University](../pages/images/uni.jpeg)  
-Hekima University
+
 
 ![Social Sciences and Humanities Research Council Canada](../pages/images/sshrc.jpeg)
 [Social Sciences and Humanities Research Council Canada](https://www.sshrc-crsh.gc.ca/home-accueil-eng.aspx)  
