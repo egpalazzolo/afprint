@@ -28,3 +28,5 @@ production of political, social, intellectual, economic, and affective knowledge
 through media?
 
 ## Please [RSVP](https://docs.google.com/forms/d/e/1FAIpQLScelKAZUud_q_hu3fmhaBa_SfbmrJeFB8MeHyPwD88EqZ0tlA/viewform?usp=sf_link) to Virtually Attend the Keynote Address
+
+![bookshelves](../pages/images/canva3.jpeg)
