@@ -4,8 +4,8 @@
 @import 'jekyll-theme-cayman';
 
 /** 1. Set default font family to sans-serif. 2. Prevent iOS text size adjust after orientation change, without disabling user zoom. */
-@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap");
-html { font-family: sans-serif; /* 1 */ -ms-text-size-adjust: 100%; /* 2 */ -webkit-text-size-adjust: 100%; /* 2 */ }
+@import url("https://fonts.googleapis.com/css?family=Be+Vietnam:400,700&display=swap");
+html { font-family: be-vietnam; /* 1 */ -ms-text-size-adjust: 100%; /* 2 */ -webkit-text-size-adjust: 100%; /* 2 */ }
 
 /** header */
 .page-header { color: #fff; text-align: center; background-color: #c328fa; background-image: linear-gradient(120deg, #f05a2c, #c328fa); }
