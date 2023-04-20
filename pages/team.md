@@ -7,26 +7,27 @@ permalink: /team/
 # Meet the Team
 
 ---
-![Vinny](../pages/images/vinny.jpeg){: style="float: left"}
 ### [Vincenza Mazzeo]({% link pages/vinny.md %})  
+![Vinny](../pages/images/vinny.jpeg){: style="float: left"}  
 Johns Hopkins University  
 Ph.D. Candidate
 
 ---
-![Chambi](../pages/images/chambi.jpeg){: style="float: right"}
-### [Chambi Chachage]({% link pages/chambi.md %}) 
+### [Chambi Chachage]({% link pages/chambi.md %})  
+![Chambi](../pages/images/chambi.jpeg){: style="float: right"}  
 Carleton University  
 Assistant Professor 
 
 ---
-![Tom](../pages/images/tom.jpeg){: style="float: left"}
-### [Thomas Keegan]({% link pages/tom.md %}) 
+### [Thomas Keegan]({% link pages/tom.md %})  
+![Tom](../pages/images/tom.jpeg){: style="float: left"}  
 Johns Hopkins University  
 Ph.D. Candidate
 
 ---
-![Frolence](../pages/images/frolence.jpeg){: style="float: right"}
+
 ### [Frolence Ruthechura]({% link pages/frolence.md %})  
+![Frolence](../pages/images/frolence.jpeg){: style="float: right"}  
 University of Dar es Salaam  
 Lecturer and Researchers
  
