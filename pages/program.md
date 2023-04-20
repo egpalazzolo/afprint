@@ -6,18 +6,20 @@ permalink: /program/
 ---
 # Workshop Program
 ---
-## Day 1: Thursday, April 27
+## Day 1: Thursday, April 27  
+#### Location: JHU - [Mason Hall](https://goo.gl/maps/3MM9BnQ9pXacnyQaA), Room 102  
 8:30am - 9:00am         [Breakfast](#breakfast)  
 9:00am - 9:45am         [Keynote Address](#keynote-address)  
 9:45am - 11:15am        [Panel - Archiving (Part I): Africa in Global Archives](#panel---archiving-part-i-africa-in-global-archives)  
 11:15am - 11:30am       [Break](#break)  
 11:30am - 1:00pm        [Panel - Political and Polemical Print Culture (Part I): Reading Publics](#panel---political-and-polemical-print-culture-part-i-reading-publics)  
-1:00pm - 2:00pm         [Lunch](#lunch)  
-2:00pm - 3:30pm         [Panel - Documenting Queer Lifeworlds](#panel---documenting-queer-lifeworlds)  
+1:00pm - 1:45pm         [Lunch](#lunch)  
+1:45pm - 3:00pm         [Panel - Documenting Queer Lifeworlds](#panel---documenting-queer-lifeworlds)  
 6:00pm - 8:00pm         [Dinner](#dinner)  
 
 
-## Day 2: Friday, April 28
+## Day 2: Friday, April 28  
+#### Location: JHU - [Gilman Hall](https://goo.gl/maps/ubVLuyk2z1Xy1C149), Room 308  
 8:30am - 9:00am         [Breakfast](#breakfast-1)  
 9:00am - 10:30am        [Panel - Archiving (Part II): The Digital Turn and the Future of the Archive](#panel---archiving-part-ii-the-digital-turn-and-the-future-of-the-archive)  
 10:30am - 10:45am       [Break](#break-1)  
@@ -29,6 +31,8 @@ Noon - 1:00pm           [Lunch](#lunch-1)
 ---
 
 # Day 1: Thursday, April 27  
+
+### Location: JHU - [Mason Hall](https://goo.gl/maps/3MM9BnQ9pXacnyQaA), Room 102
 
 ---
 
@@ -76,18 +80,18 @@ Umshumayeli Wendaba and the early African language press as a site of intellectu
 
 “Shopping for all pocket”: A history of Indian Retail and Industrial Business in the Gold Coast, 1929-1989—**Tracy Lucky Mensah**, Georgetown University, USA  
 
-—**Afua Quarshie**, Johns Hopkins University, USA
+Bewitching the State: Gender Discourse and Transgressive Citizenship in Ghana, 1972-79—**Afua B. Quarshie**, Johns Hopkins University, USA
 
 ---
 
 ## Lunch  
-### 1:00pm - 2:00pm  
-Location: On campus - Gilman Hall, room 388
+### 1:00pm - 1:45pm  
+Location: On campus - [Gilman Hall](https://goo.gl/maps/ubVLuyk2z1Xy1C149), Room 388
 
 ---
 
 ## Panel - Documenting Queer Lifeworlds  
-### 2:00pm - 3:30pm  
+### 1:45pm - 3:00pm  
 
 *Chairs/Discussants*  
 
@@ -106,6 +110,8 @@ Location to be determined.
 ---
 
 # Day 2: Friday, April 28  
+
+### Location: JHU - [Gilman Hall](https://goo.gl/maps/ubVLuyk2z1Xy1C149), Room 308
 
 ---
 
@@ -142,19 +148,20 @@ in Africa”-**Janeth Marwa**, Tanzania
 
 *Chairs/Discussants*  
 
-Reflection on the Haya language collected proverbs for digital archive—**Frolence Rubagumisa Rutechura**, University of Dar es Salaam, Tanzania
+Towards African Islamic Intellectual History: The Implications of Print and Digital Technologies on Islamic History and Culture of Textual Adaptation in coastal East Africa, c. 1950s-2020—**Conrad John Masabo**, Hong Kong Baptist University, Hong Kong
 
-Salvage Ethnography as Indigenous Archive: Nubian Digital Mediations of Heritage and Memory in Egypt—**Yasmin Moll**, University of Michigan, USA
+Forging Decolonization through Pan-African Print Media: Frene Ginwala and Spearhead in 1960s East Africa—**Yasmina Martin**, Yale University, USA
 
-Digital Parodies, Translational Fevers, and the Living Archive—**Damilare Bello**, Duke University, USA  
+Newspapers, Ideology and Statecraft in a Postcolonial Context, 1961-1990s—**Maxmillian J. Chuhila**, University of Dar es Salaam, Tanzania 
 
-“Advancing Innovative Media in Creating Common Culture Toward Inclusive Digital Economy
-in Africa”-**Janeth Marwa**, Tanzania
+Alternative Media as Ephemeral Archives: What is “Alternative” about “Alternative Media” and what might it tell us about the life of South African women as intellectuals during late colonization?—**Vincenza F Mazzeo**, Johns Hopkins University, USA
+
 
 ---
 
 ## Lunch  
 ### 10:45am - Noon  
+### Location: JHU - [Gilman Hall](https://goo.gl/maps/ubVLuyk2z1Xy1C149), Room 308  
 
 ---
 
@@ -176,5 +183,4 @@ Transiting through Media: Film in Theatre for Development in Tanzania—**Vicens
 ## Closing Remarks  
 ### 2:30pm - 3:00pm  
 
-Closing commentary by the 2023 Workshop Co-organizers and discussion of future possibilities
-for an edited volume.
+Closing commentary by the 2023 Workshop Co-organizers and discussion of future possibilities for an edited volume.
