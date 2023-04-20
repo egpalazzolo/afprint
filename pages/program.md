@@ -154,7 +154,7 @@ Forging Decolonization through Pan-African Print Media: Frene Ginwala and Spearh
 
 Newspapers, Ideology and Statecraft in a Postcolonial Context, 1961-1990s—**Maxmillian J. Chuhila**, University of Dar es Salaam, Tanzania 
 
-Alternative Media as Ephemeral Archives: What is “Alternative” about “Alternative Media” and what might it tell us about the life of South African women as intellectuals during late colonization?—**Vincenza F Mazzeo**, Johns Hopkins University, USA
+Alternative Media as Ephemeral Archives: What is “Alternative” about “Alternative Media” and what might it tell us about the life of South African women as intellectuals during late colonization?—**Vincenza F. Mazzeo**, Johns Hopkins University, USA
 
 
 ---
