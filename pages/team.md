@@ -25,7 +25,7 @@ Johns Hopkins University
 Ph.D. Candidate
 
 ---
-![Frloence]("../pages/images/frloence.jpeg"){: style="float: right"}
+![Frloence]("../pages/images/frolence.jpeg"){: style="float: right"}
 ### [Frolence Ruthechura](..pages/frolence.md)  
 University of Dar es Salaam  
 Lecturer and Researchers
