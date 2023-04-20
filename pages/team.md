@@ -11,8 +11,7 @@ permalink: /team/
 ![Vinny](../pages/images/vinny.jpeg){: style="float: left"}  
 Johns Hopkins University  
 Ph.D. Candidate  
-
-
+<br/><br/>
 ---
 
 
@@ -20,7 +19,7 @@ Ph.D. Candidate
 ![Chambi](../pages/images/chambi.jpeg){: style="float: right"}  
 Carleton University  
 Assistant Professor  
-
+<br/><br/>
 ---
 
 
@@ -28,8 +27,7 @@ Assistant Professor
 ![Tom](../pages/images/tom.jpeg){: style="float: left"}  
 Johns Hopkins University  
 Ph.D. Candidate  
-
-
+<br/><br/>
 ---
 
 
