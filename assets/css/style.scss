@@ -8,7 +8,7 @@
 html { font-family: be-vietnam; /* 1 */ -ms-text-size-adjust: 100%; /* 2 */ -webkit-text-size-adjust: 100%; /* 2 */ }
 
 /** header */
-.page-header { color: #fff; text-align: center; background-color: #c328fa; background-image: linear-gradient(120deg, #f05a2c, #c328fa); }
+.page-header { background-image: url("../pages/images/background.jpeg");  text-align: center}
 @media screen and (min-width: 64em) { .page-header { padding: 5rem 6rem; } }
 @media screen and (min-width: 42em) and (max-width: 64em) { .page-header { padding: 3rem 4rem; } }
 @media screen and (max-width: 42em) { .page-header { padding: 2rem 1rem; } }
