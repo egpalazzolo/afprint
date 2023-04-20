@@ -7,23 +7,27 @@ permalink: /team/
 # Meet the Team
 
 ---
-<img style="float: left;" src="../pages/images/vinny.jpeg">
+![Vinny]("../pages/images/vinny.jpeg"){: style="float: left"}
 ### [Vincenza Mazzeo](..pages/vinny.md)  
 Johns Hopkins University  
 Ph.D. Candidate
 
 ---
-<img style="float: right;" src="../pages/images/chambi.jpeg">
-### [Chambi Chachage](..pages/chambi.md)  
+![Chambi]("../pages/images/chambi.jpeg"){: style="float: right"}
+### [Chambi Chachage](..pages/chambi.md) 
+Carleton University  
+Assistant Professor 
 
 ---
-<img style="float: left;" src="../pages/images/tom.jpeg">
+![Tom]("../pages/images/tom.jpeg"){: style="float: left"}
 ### [Thomas Keegan](..pages/tom.md)  
 Johns Hopkins University  
 Ph.D. Candidate
 
 ---
-<img style="float: right;" src="../pages/images/frolence.jpeg">
+![Frloence]("../pages/images/frloence.jpeg"){: style="float: right"}
 ### [Frolence Ruthechura](..pages/frolence.md)  
+University of Dar es Salaam  
+Lecturer and Researchers
  
 
