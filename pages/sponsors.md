@@ -7,8 +7,8 @@ permalink: /sponsors/
 # Our Sponsors
 ---
 ![Carleton University](../pages/images/uni1.jpeg)  
-![Johns Hopkins University](../pages/images/can.jpeg)
-![Hekima University](../pages/images/uni.jpeg)  
+![Johns Hopkins University](../pages/images/can.jpeg)  
+![University of Dar es Salaam](../pages/images/uni.jpeg)  
 
 
 ![Social Sciences and Humanities Research Council Canada](../pages/images/sshrc.jpeg)
