@@ -7,18 +7,22 @@
 @import url("https://fonts.googleapis.com/css?family=Be+Vietnam:400,700&display=swap");
 html { font-family: be-vietnam; /* 1 */ -ms-text-size-adjust: 100%; /* 2 */ -webkit-text-size-adjust: 100%; /* 2 */ }
 
+.body{
+    background-color: #000000;
+}
 /** header */
 .header {  
     text-align: center;
     color: #fff;
     background-image: url("/pages/images/background.jpeg");
     width: 100%;
-    background-repeat:no-repeat;
+    background-repeat: repeat-x;
+    width: 1450px;
+    height: 479px;
+    margin: 0 auto;
 }
 
-.h1 {
-    inline-size: 100px;
-}
+
 
 @media screen and (min-width: 64em) { header { padding: 5rem 6rem; } }
 @media screen and (min-width: 42em) and (max-width: 64em) { header { padding: 3rem 4rem; } }
