@@ -4,7 +4,7 @@ title: Vincenza Mazzeo
 description: Vincenza Mazzeo
 permalink: /vincenza/
 ---
-### Vincenza Mazzeo  
+## Vincenza Mazzeo  
 [Vincenza Mazzeo](https://hopkinsmedicalhumanities.org/people/vincenza-mazzeo/) is a PhD Candidate in History at Johns Hopkins University, Fellow at the Centre for Medical Humanities and Social Medicine, and 2023 Deans Teaching Fellow.  She holds an H.BA from the University of Toronto and MA from Carleton University.
 
 Vincenza’s dissertation uses oral history and women’s alternative media to examine how ideas of gender, race, health, and freedom – specifically, freedom from state-sanctioned death and slow violence – were configured in liberationist struggles across South Africa during the late 20th century. Her research interests include histories of health and medicine, gender and sexuality studies, African history, and post-colonial studies.
