@@ -160,7 +160,7 @@ Alternative Media as Ephemeral Archives: What is “Alternative” about “Alte
 ---
 
 ## Lunch  
-### 10:45am - Noon  
+### Noon - 1pm
 ### Location: JHU - [Gilman Hall](https://goo.gl/maps/ubVLuyk2z1Xy1C149), Room 308  
 
 ---
