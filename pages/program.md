@@ -72,8 +72,11 @@ Decolonization and the History of African Libraries 1960-1988—**Alexander Baer
 Deliberative journalistic discourse as a consensus building mechanism for marginalised communities: A comparative analysis of the front pages and letters to the editor in the Early South African Black Press’s Abantu Batho and Umteteli wa Bantu—**Sisanda Nkoala**, Cape
 Peninsula University of Technology, South Africa  
 
-Umshumayeli Wendaba and the early African language press as a site of intellectual struggle—Taryn De Vega, Rhodes University, South Africa
-“Shopping for all pocket”: A history of Indian Retail and Industrial Business in the Gold Coast, 1929-1989—**Tracy Lucky Mensah**, Georgetown University, USA
+Umshumayeli Wendaba and the early African language press as a site of intellectual struggle—**Taryn De Vega**, Rhodes University, South Africa  
+
+“Shopping for all pocket”: A history of Indian Retail and Industrial Business in the Gold Coast, 1929-1989—**Tracy Lucky Mensah**, Georgetown University, USA  
+
+—**Afua Quarshie**, Johns Hopkins University, USA
 
 ---
 

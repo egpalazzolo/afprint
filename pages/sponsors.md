@@ -6,8 +6,8 @@ permalink: /sponsors/
 ---
 # Our Sponsors
 ---
+![Carleton University](../pages/images/uni1.jpeg)  
 ![Johns Hopkins University](../pages/images/can.jpeg)
-![Carleton University](../pages/images/uni1.jpeg)
 ![Hekima University](../pages/images/uni.jpeg)  
 
 
