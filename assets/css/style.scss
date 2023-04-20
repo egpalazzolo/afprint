@@ -12,18 +12,20 @@ html { font-family: be-vietnam; /* 1 */ -ms-text-size-adjust: 100%; /* 2 */ -web
 }
 /** header */
 .header {  
+    overflow: hidden;
+    overflow-wrap: break-word;
     text-align: center;
-    word-wrap: break-word;
     color: #fff;
     background-image: url("/pages/images/background.jpeg");
     background-position: center;
     background-repeat: no-repeat;
-    width: 100%;
+    position: relative;
+
 
 }
 
-.h1{
-    length: 100px;
+h1, h2, h3, h4, h5, h6 {
+    overflow-wrap: normal;
 }
 
 @media screen and (min-width: 64em) { header { padding: 5rem 6rem; } }
