@@ -25,7 +25,7 @@ Assistant Professor
 ### [Thomas Keegan]({% link pages/tom.md %})  
 Johns Hopkins University  
 Ph.D. Candidate  
-<br/><br/>
+
 ---
 
 ![Frolence](../pages/images/frolence.jpeg)  

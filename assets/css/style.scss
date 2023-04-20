@@ -13,16 +13,18 @@ html { font-family: be-vietnam; /* 1 */ -ms-text-size-adjust: 100%; /* 2 */ -web
 /** header */
 .header {  
     text-align: center;
+    word-wrap: break-word;
     color: #fff;
     background-image: url("/pages/images/background.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
     width: 100%;
-    background-repeat: repeat-x;
-    width: 1450px;
-    height: 479px;
-    margin: 0 auto;
+
 }
 
-
+.h1{
+    length: 100px;
+}
 
 @media screen and (min-width: 64em) { header { padding: 5rem 6rem; } }
 @media screen and (min-width: 42em) and (max-width: 64em) { header { padding: 3rem 4rem; } }
