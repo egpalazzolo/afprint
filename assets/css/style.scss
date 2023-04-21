@@ -12,16 +12,11 @@ html { font-family: be-vietnam; /* 1 */ -ms-text-size-adjust: 100%; /* 2 */ -web
 }
 /** header */
 .header {  
-    overflow: hidden;
-    overflow-wrap: break-word;
     text-align: center;
     color: #fff;
-    background-image: url("/pages/images/background.jpeg");
-    background-position: center;
-    background-repeat: no-repeat;
-    position: relative;
-
-
+    background-image: url("/pages/images/backgroundnospace.jpeg");
+    background-position: left;
+    background-repeat: repeat-x;
 }
 
 h1, h2, h3, h4, h5, h6 {
