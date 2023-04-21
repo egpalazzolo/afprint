@@ -25,9 +25,9 @@ h1, h2, h3, h4, h5, h6 {
     overflow-wrap: normal;
 }
 
-@media screen and (min-width: 64em) { header { padding: 5rem 6rem; } }
-@media screen and (min-width: 42em) and (max-width: 64em) { header { background-image: url("/pages/images/woman1.jpeg")} }
-@media screen and (max-width: 42em) { header { background-image: url("/pages/images/woman1.jpeg") } }
+@media screen and (min-width: 64em) { header { background-image: url("/pages/images/woman1.jpeg"); background-position:left } }
+@media screen and (min-width: 42em) and (max-width: 64em) { header { background-image: url("/pages/images/woman1.jpeg"); background-position:left } }
+@media screen and (max-width: 42em) { header { background-image: url("/pages/images/woman1.jpeg"); background-position:left } }
 
 .btn {
     color: #FFF;
