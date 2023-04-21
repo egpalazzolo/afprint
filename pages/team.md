@@ -29,7 +29,7 @@ Ph.D. Candidate
 ---
 
 ![Frolence](../pages/images/frolence.jpeg)  
-### [Frolence Ruthechura]({% link pages/frolence.md %})  
+### [Frolence Rutechura]({% link pages/frolence.md %})  
 University of Dar es Salaam  
 Lecturer and Researcher  
  
