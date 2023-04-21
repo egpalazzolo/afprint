@@ -17,6 +17,7 @@ html { font-family: be-vietnam; /* 1 */ -ms-text-size-adjust: 100%; /* 2 */ -web
     text-shadow: 2px 2px #000000;
     background-image: url("/pages/images/backgroundnospace.jpeg");
     background-position: center;
+    background-position: ;
     background-repeat: repeat-x;
 }
 
@@ -25,25 +26,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 @media screen and (min-width: 64em) { header { padding: 5rem 6rem; } }
-@media screen and (min-width: 42em) and (max-width: 64em) { header { padding: 3rem 4rem; } }
-@media screen and (max-width: 42em) { header { padding: 2rem 1rem; } }
+@media screen and (min-width: 42em) and (max-width: 64em) { header { background-image: url("/pages/images/woman1.jpeg")} }
+@media screen and (max-width: 42em) { header { background-image: url("/pages/images/woman1.jpeg") } }
 
 .btn {
     color: #FFF;
     background-color: #000000;
 }
-
-/** header image on mobile **/
-@media screen and (max-width: 600px) {
-    .site-branding {
-        background-image: url("/pages/images/woman1.jpeg") !important;
-    }
-}
-@media (max-width: 600px) {
-    .page-id-21 .page-header.page--cover {
-      background-image: url('/pages/images/woman1.jpeg') !important;
-    }
-  }
 
 /** text size and colors */
 body { padding: 0; margin: 0; font-family: "Be Vietnam", "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 16px; line-height: 1.5; color: #000000; }
