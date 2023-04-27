@@ -51,7 +51,7 @@ Hashtaging Activism: The Role of Social Media in Documenting African Women’s O
 ## Panel - Archiving (Part I): Africa in Global Archives  
 ### 9:45am - 11:15am  
 
-*Chairs/Discussants*  
+*Chairs/Discussants*: Dr. Didier Gondola & Dr. Frolence R. Rutechura  
 
 Re-imagining the Role of Oral History in Forging Blacks’ Identities through Slave Narratives in America’s Divided Society—**Christophe Dongmo**, Leiden University [Non-Resident Senior Fellow], Cameroon  
 
@@ -71,7 +71,7 @@ Archiving Pan-Africanism in Ottawa: Black Consciousness in Canada's Capital-**Sa
 ## Panel - Political and Polemical Print Culture (Part I): Reading Publics  
 ### 11:30am - 1:00pm  
 
-*Chairs/Discussants*  
+*Chairs/Discussants*: Dr. Didier Gondola & Thomas Keegan  
 
 Deliberative journalistic discourse as a consensus building mechanism for marginalised communities: A comparative analysis of the front pages and letters to the editor in the Early South African Black Press’s Abantu Batho and Umteteli wa Bantu—**Sisanda Nkoala**, Cape
 Peninsula University of Technology, South Africa  
@@ -93,7 +93,7 @@ Location: On campus - [Gilman Hall](https://goo.gl/maps/ubVLuyk2z1Xy1C149), Room
 ## Panel - Documenting Queer Lifeworlds  
 ### 1:45pm - 3:00pm  
 
-*Chairs/Discussants*  
+*Chairs/Discussants*: Dr. Jessica Marie Johnson and Alexander Peeples  
 
 Where Rafiki meets “Jambula Tree”: Literary, Sonic and Visual Resonances of Queer Life in Kenya and Uganda—**Mary Ainomugisha**, New York University, USA  
 
@@ -123,7 +123,7 @@ Location to be determined.
 ## Panel - Archiving (Part II): The Digital Turn and the Future of the Archive  
 ### 9:00am - 10:30am  
 
-*Chairs/Discussants*  
+*Chairs/Discussants*: Dr. Chambi Chachange & Sarah George  
 
 Reflection on the Haya language collected proverbs for digital archive-**Frolence Rubagumisa Rutechura**, University of Dar es Salaam, Tanzania
 
@@ -146,7 +146,7 @@ in Africa”-**Janeth Marwa**, Tanzania
 ## Panel - Political and Polemical Print Culture (Part I): Print as Social Technology in the Late/Postcolony
 ### 10:45am - Noon  
 
-*Chairs/Discussants*  
+*Chairs/Discussants*: Dr. Elizabeth Thornberry & Dr. Chambi Chachange  
 
 Decolonization and the History of African Libraries, 1960-1988-**Alexander Baert Young**, Johns Hopkins University, USA
 
@@ -168,7 +168,7 @@ Alternative Media as Ephemeral Archives: What is “Alternative” about “Alte
 ## Panel - Media, Publishing Networks and Black Femininities
 ### 1:00pm - 2:30pm  
 
-*Chairs/Discussants*  
+*Chairs/Discussants*: Dr. Elizabeth Thornberry & Vincenza F. Mazzeo  
 
 Translucent Black Femininities: Ukuphapha as a Mode of Being [Dolly Rathebe and Miriam Makeba]—**Thobile Ndimande**, South Africa  
 
