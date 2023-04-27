@@ -59,7 +59,7 @@ Helpless Victims of War? Reimagining Biafran Women in Domestic and Foreign Archi
 
 Sometimes Good, Other Times Not So Good: Cartooning as Popular Satirical Culture in Africa amidst Global Cultural Forces—**Zawadi Daniel Limbe**, University of Dar es Salaam, Tanzania  
 
-Decolonization and the History of African Libraries 1960-1988—**Alexander Baert Young**, Johns Hopkins University, USA  
+Archiving Pan-Africanism in Ottawa: Black Consciousness in Canada's Capital-**Sarah George**, Carleton University, Canada  
 
 ---
 
@@ -133,7 +133,7 @@ Memory in Egypt—**Yasmin Moll**, University of Michigan, USA
 Digital Parodies, Translational Fevers, and the Living Archive—**Damilare Bello**, Duke
 University, USA  
 
-“Advancing Innovative Media in Creating Common Culture Toward Inclusive Digital Economy
+Advancing Innovative Media in Creating Common Culture Toward Inclusive Digital Economy
 in Africa”-**Janeth Marwa**, Tanzania
 
 ---
@@ -148,7 +148,7 @@ in Africa”-**Janeth Marwa**, Tanzania
 
 *Chairs/Discussants*  
 
-Towards African Islamic Intellectual History: The Implications of Print and Digital Technologies on Islamic History and Culture of Textual Adaptation in coastal East Africa, c. 1950s-2020—**Conrad John Masabo**, Hong Kong Baptist University, Hong Kong
+Decolonization and the History of African Libraries, 1960-1988-**Alexander Baert Young**, Johns Hopkins University, USA
 
 Forging Decolonization through Pan-African Print Media: Frene Ginwala and Spearhead in 1960s East Africa—**Yasmina Martin**, Yale University, USA
 
